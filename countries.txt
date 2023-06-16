@@ -1,0 +1,353 @@
+?located in Eurasia.
+?located on the island.
+?located in the Mediterranean.
+?divided on the North and South.
+Cyprus.
+Malta.
+?has a volcanic origin.
+?called country of the rising sun
+Japan
+Iceland
+?was the biggest empire in history.
+United Kingdom.
+?have a huge territorial claims on the mainland.
+Taiwan.
+?well known due to famous sort of tea.
+Sri Lanka.
+?have a famous type of cartoons.
+Japan.
+?morozov
+phika
+Ireland.
+?located in Asia.
+?located in South West Asia.
+?located on Arabian peninsula.
+?have access to Persian Gulf.
+?the absolute monarchy.
+?have borders with more than one country.
+?have the highest percentage of migrants.
+UAE.
+Oman.
+?an organizer of football world cup 2022.
+Qatar.
+Bahrain.
+?has access to Red sea.
+?the biggest on peninsula.
+Saudi Arabia.
+Yemen.
+Kuwait.
+Yemen.
+?located on the Caucasus.
+?Christianity country.
+?landlocked.
+Armenia.
+Georgia.
+Azerbaijan.
+?has access to Mediterranean.
+?was in France in the past.
+?has some kurds.
+Syria.
+Lebanon.
+?has a piece in Europe.
+Turkey.
+Israel.
+?has access to the Persian gulf.
+?has access to the Caspian sea.
+Iran.
+Iraq.
+?landlocked.
+Afghanistan.
+Jordan.
+?located in South Asia.
+?landlocked.
+?has the highest point on Earth.
+Nepal.
+Bhutan.
+?the second most populated country in the world.
+India.
+?surrounded by India.
+Bangladesh.
+Pakistan.
+?located in Central Asia.
+?has border with Afghanistan.
+?has access to Caspian sea.
+Turkmenistan.
+?has border with China.
+Tajikistan.
+Uzbekistan.
+?one of the ten largest countries.
+Kazakhstan.
+Kyrgyzstan.
+?located in South East Asia.
+?was under French rule in the past.
+?had a long civil war between South and North.
+Vietnam.
+?landlocked.
+Laos.
+Cambodia.
+?was under British rule in the past.
+?has a piece on the Kalimantan.
+Malaysia.
+?city country.
+Singapore.
+Burma.
+Thailand.
+?located on Korean peninsula.
+?communist country.
+North Korea.
+South Korea.
+?the most populated in the world.
+China.
+Mongolia.
+?located in Eastern Europe.
+?was part of USSR.
+?baltic state.
+?the richest post soviet country.
+Estonia.
+?famous due to fishing.
+Latvia.
+Lithuania.
+?landlocked.
+?still have a death penalty.
+Belarus.
+Moldova.
+?the biggest country in the world.
+Russia.
+Ukraine.
+?slavic country.
+?was in common with next door country in 20th century.
+?has a really high percentage of atheists.
+Czech republic.
+Slovakia.
+?one of the most catholic countries in Europe.
+Poland.
+Bulgaria.
+?has a famous legends about vampires.
+Romania.
+Hungary.
+?located in South Europe.
+?located on the Italian peninsula.
+?the homeland for pizza.
+Italy.
+?the theocratic monarchy.
+Vatican.
+San Marino.
+?located on the Iberian peninsula.
+?has third most spoken language in the world.
+Spain.
+?has the highest capital in Europe.
+Andorra.
+Portugal.
+?has a huge number of small islands.
+Greece.
+Albania.
+?was the part of Yugoslavia.
+?has a cyrillic alphabet.
+?landlocked.
+?was the main part of Yugoslavia.
+Serbia.
+Macedonia.
+Montenegro.
+?a muslim country.
+Bosnia and Herzegovina.
+?has a long coastline with huge number of islands.
+Croatia.
+Slovenia.
+?located in Western Europe.
+?located in Benelux.
+?landlocked.
+Luxemburg.
+?divided on 2 halfs.
+Belgium.
+Netherlands.
+?has the oldest citizens in Europe.
+Monaco.
+France.
+?located in Central Europe.
+?has access to the Rhine.
+?located in mountains.
+Switzerland.
+Germany.
+?was the main part of famous empire until the end of ww1.
+Austria.
+Lichtenshtein.
+?has access to Arctic.
+?in European Union.
+Denmark.
+Norway.
+?took part in WW2.
+Finland.
+Sweden.
+?located in Africa.
+?has access to the Mediterranean.
+?the oldest country in the world.
+Egypt.
+?has a border with Spain.
+Morocco.
+?the biggest country in Africa.
+Algeria.
+?where were 2 civil wars between 2010 and 2020.
+Libya.
+Tunisia.
+?Located in South Africa.
+?the richest country in the region.
+South Africa.
+?was the part of South Africa.
+?Landlocked.
+?entirely surrounded by South Africa.
+Lesotho.
+Swaziland.
+Namibia.
+?was part of Portugal.
+?has access to the Indian ocean.
+Mozambique.
+Angola.
+?has a part of Zambezi river.
+?has access to the Victoria Falls.
+?has English only as a country language.
+Zambia.
+Zimbabwe.
+Malawi.
+?an island.
+Madagaskar.
+Botswana.
+?located in East Africa.
+?landlocked.
+?was part of Belgium.
+?where was a genocide in 1994.
+Rwanda.
+Burundi.
+?had 2 wars with Italy.
+Ethiopia.
+?got independence in 21 century.
+South Sudan.
+Uganda.
+?has access to Red sea.
+?was the biggest country in Africa in the past.
+Sudan.
+?was part of Italy.
+Eritrea.
+Djibouti.
+?was part of Germany.
+Tanzania.
+?still in civil war.
+Somalia.
+Kenya.
+?located in Central Africa.
+?has access to sea.
+?was part of France in the past.
+?in British commonwealth.
+Cameroon.
+?has a country with same name.
+Congo.
+Gabon.
+?has the highest GDP per capita in Africa.
+Equatorial Guinea.
+DR Congo.
+?has part of the Sahara desert.
+Chad.
+CAR.
+?has access to sea.
+?was part of France in the past.
+?located in desert.
+?specializes in ferrous metallurgy.
+Mauritania.
+Senegal.
+?has the most aluminium resources.
+Guinea.
+?was the part of German empire.
+Togo.
+?is the mainland for Didier Drogba.
+Ivory Coast.
+Benin.
+?was part of UK in the past.
+?has a good football team.
+?the most populous in Africa.
+Nigeria.
+Ghana.
+?surrounded by one country except for coast.
+Gambia.
+Sierra Leone.
+?first independent republic in Africa.
+Liberia.
+Guinea Bissau.
+?has part of the Sahara desert.
+?has a river with same name.
+Niger.
+Mali.
+Burkina Faso.
+?located in America.
+?located in South America.
+?located in Ands.
+?has a lot of illegal drugs export.
+Columbia.
+?long and thin.
+Chili.
+?landlocked.
+Bolivia.
+?got name due to geographical position.
+Ecuador.
+Peru.
+?has a part in Amazonian jungle.
+?has a lot of oil reserves.
+Venezuela.
+?was the British colony.
+Guyana.
+?was the Dutch colony.
+Suriname.
+Brazil.
+?have the most European population in South America.
+Uruguay.
+?have a territorial gain with UK.
+Argentina.
+Paraguay.
+?an island in Carribean sea.
+?was included in British West Indies.
+?the native country for the fastest runner in the world.
+Jamaica.
+?rich country based on tourism.
+The Bahamas.
+Trinidad and Tobago.
+?located on Haiti island.
+?more rich than neighbor.
+Dominican republic.
+Haiti.
+?known due to Caribbean crisis.
+Cuba.
+Curacao.
+?was the part of UK in the past.
+?the best country in hockey.
+Canada.
+?the world superpower.
+USA.
+Belize.
+?has a famous canal.
+Panama.
+?the best place for surfers.
+Costa Rica.
+?the homeland of Burrito.
+Mexico.
+?was taken part in football war.
+?the smallest in Central America.
+Salvador.
+Honduras.
+?the most populated in Central America.
+Guatemala.
+Nicaragua.
+?was the place for film The Lord of the rings.
+New Zeland.
+?continent and country at once.
+Australia.
+?was the Spanish and USA colony, was occupied by Japan in WW2.
+Philippines.
+?has an island with population more than Russian.
+Indonesia.
+?was the part of Portugal and Indonesia.
+East Timor.
+?small rich country on Borneo.
+?kinator_kurs\" ; if ($?) { g++ akinator_2.cpp -o akinator_2 } ; if ($?) { .\akinator_2 }
+cd "c:\aip\akinator_kurs\" ; if ($?) { g++ akinator_2.cpp -o akinator_2 } ; if ($?) { .\akinator_2 }
+?kinator_kurs\" ; if ($?) { g++ akinator_2.cpp -o akinator_2 } ; if ($?) { .\akinator_2 }
+cd "c:\aip\akinator_kurs\" ; if ($?) { g++ tempCodeRunnerFile.cpp -o tempCodeRunnerFile } ; if ($?) { .\tempCodeRunnerFile }
+Brunei.
+Papua New Guinea.
