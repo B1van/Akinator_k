@@ -1,0 +1,4 @@
+C:/aip/akinator/Build/CMakeFiles/akinator.dir
+C:/aip/akinator/Build/CMakeFiles/test.dir
+C:/aip/akinator/Build/CMakeFiles/edit_cache.dir
+C:/aip/akinator/Build/CMakeFiles/rebuild_cache.dir
